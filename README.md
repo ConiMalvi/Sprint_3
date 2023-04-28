@@ -2,8 +2,8 @@
 
 Integrantes:
 
--Kevin Cabello
--Constanza Cisterna
--Juan Pablo Marin
--Diego Nuñez
--Michael Rojas
+* Kevin Cabello
+* Constanza Cisterna
+* Juan Pablo Marin
+* Diego Nuñez
+* Michael Rojas
